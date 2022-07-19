@@ -1,12 +1,12 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: Cool Brain and Language Lab
+description: This lab studies really awesome phenomena related to brain, cognition, languag and emotion. This webisite provides an overview of it. 
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: /lab-website-template
+baseurl: ""
 
 # site social media and other links
 links:
